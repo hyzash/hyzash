@@ -1,62 +1,36 @@
 # Hey, I'm Fildza 👋
 
-```javascript
-const fildza = {
-  role: "Software Engineering Student",
-  location: "Indonesia 🇮🇩",
+Software Engineering (RPL) student from Indonesia 🇮🇩
 
-  focus: [
-    "Front-End Development",
-    "UI/UX Design",
-    "Creative Technology"
-  ],
+I'm passionate about web development, UI/UX design, and building projects that solve real-world problems. I enjoy learning new technologies and turning ideas into functional and user-friendly applications.
 
-  currentlyBuilding: [
-    "SmartHadir",
-    "School Projects",
-    "Personal Portfolio"
-  ],
+## 🚀 Currently
 
-  currentlyLearning: [
-    "JavaScript",
-    "React",
-    "Git & GitHub"
-  ],
+- 🌱 Learning Front-End Development
+- 🎨 Designing interfaces with Figma
+- 💻 Building web applications
+- 📚 Improving JavaScript skills
 
-  tools: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Figma",
-    "Canva",
-    "VS Code",
-    "Git"
-  ],
+## 🛠 Tech Stack
 
-  motto: "Learn, Build, Improve."
-}
-```
-
-## 🚀 About Me
-
-I'm a Software Engineering student who enjoys turning ideas into digital experiences.
-
-I love building clean interfaces, designing user-friendly applications, and creating projects that solve real problems. Every project is an opportunity to learn something new.
+HTML • CSS • JavaScript • Git • GitHub • Figma • VS Code • Canva
 
 ## 📌 Featured Projects
 
-- 🎓 SmartHadir (RFID Attendance System)
-- 🎨 UI/UX Design Concepts
-- 🌐 Front-End Web Projects
-- 🎬 Creative Design & Video Editing
+- **SmartHadir**  
+  RFID-based attendance system with a modern UI/UX.
 
-## 📈 Current Goals
+- **School Projects**  
+  Various web, design, and software engineering projects.
 
-- Build more real-world projects
-- Improve Front-End Development skills
+- **Personal Portfolio**  
+  A place where I document my journey and showcase my work.
+
+## 🎯 Goals
+
+- Build useful applications
 - Learn React & Backend Development
 - Contribute to Open Source
+- Keep improving every day
 
----
-
-> *Code. Design. Improve. Repeat.*
+> *"Learning by building."*
